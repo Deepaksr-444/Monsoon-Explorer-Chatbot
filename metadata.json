@@ -1,0 +1,5 @@
+{
+  "name": "Monsoon Explorer Chatbot",
+  "description": "An interactive chatbot that guides users about the best monsoon tourism spots in India, powered by Gemini.",
+  "requestFramePermissions": []
+}
